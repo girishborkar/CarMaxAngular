@@ -1,2 +1,2 @@
 # CarMaxAngular
-AngularJs Demo
+CarMax sample app using AngularJs and Bootstrap.
